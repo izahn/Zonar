@@ -1,0 +1,1 @@
+C:\atlas_shared\AVL\VehiclePaths.py >> C:\atlas_shared\AVL\vehiclepathslog.txt
